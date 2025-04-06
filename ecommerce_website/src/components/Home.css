@@ -1,0 +1,16 @@
+.carousel-item img {
+    /* Set a specific height and width for the images */
+    height: 400px; /* Adjust the height as needed */
+      
+  }
+
+ 
+  
+  .logoSize{
+    width:20vw;
+    height: 18vh;
+  }
+  
+  .carousel-control-next{
+
+  }

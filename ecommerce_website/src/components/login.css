@@ -1,0 +1,101 @@
+.row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loginContainer {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px;
+}
+.error-message {
+  border: 1px solid brown;
+  border-radius: 10px;
+  margin: 20px;
+  display: flex;
+}
+.error {
+  font-size: 20px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+.errorText {
+  width: 90%;
+  margin-left: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+.validationMessageContainer {
+  display: flex;
+}
+.emptyErrorImage {
+  height: 2vh;
+  margin-top: 10px;
+}
+.emptyInputError {
+  margin-top: 10px;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.btn {
+  margin-top: 10px;
+  height: 35px;
+  max-width: 375px; /* Set a maximum width */
+  width: 100%; /* Allow it to take up full width if container is smaller */
+  text-align: center;
+  background-color: yellow;
+  border: none;
+}
+.termstext {
+  color: "#000";
+  font-weight: bold;
+  font-size: 12px;
+  margin-top: 20px;
+}
+.helpDesk {
+  color: blue;
+  font-weight: bold;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.helpDesk:hover {
+  color: brown; /* Text color on hover */
+  text-decoration: underline; /* Underline on hover */
+  cursor: pointer;
+  width: fit-content;
+}
+.form-label {
+  font-size: 13px;
+  font-weight: bolder;
+}
+.form-control {
+  background-color: red;
+  margin-top: 0px;
+}
+.checkboxtext {
+  font-size: 12px;
+  font-weight: bold;
+  width: fit-content;
+  margin-left: 5px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.passwordTextContainer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px;
+}
+.forgotPasswordText {
+  font-size: 13px;
+  font-weight: bolder;
+  color: blue;
+}
+.forgotPasswordText:hover {
+  color: brown; /* Text color on hover */
+  text-decoration: underline; /* Underline on hover */
+  cursor: pointer;
+  width: fit-content;
+}

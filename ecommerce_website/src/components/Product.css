@@ -1,0 +1,9 @@
+.bulging-div {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+    transform: scale(1.05); /* Increase the scale for bulging effect */
+    transition: transform 0.3s; /* Add a smooth transition for effect */
+  }

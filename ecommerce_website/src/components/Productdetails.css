@@ -1,0 +1,27 @@
+.individualImage{
+    height:50vh;
+   
+
+}
+.imageContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    width:50vw;
+    background-color: white;
+    margin:10px;
+
+   
+
+}
+.productDiscreption{
+    background-color:white;
+    width:60vw;
+    margin: 10px;
+}
+.cartAddictionDetails{
+    width:25vw;
+    background-color: white;
+    margin: 10px;
+}

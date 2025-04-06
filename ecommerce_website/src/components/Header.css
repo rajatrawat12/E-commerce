@@ -1,0 +1,28 @@
+
+.logoImage{
+   height: 8vh;
+
+}
+.deliveryAddress{
+    font-size:12px;
+    
+
+}
+.input-group{
+    background-color: white;
+ height:6vh;
+ width:55vw;
+}
+.searchBox{
+    height:4vh;
+    width:50vw;
+
+}
+
+.cartLogo{
+    height:5vh;
+
+}
+.button-no-hover{
+    background-color: transparent !important;
+}

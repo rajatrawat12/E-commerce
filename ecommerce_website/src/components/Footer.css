@@ -1,0 +1,42 @@
+.footerNaviagteTopContainer {
+  display: flex;
+  background-color: #292e34;
+  height: 6vh;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  font-weight: bolder;
+}
+.NaviagateTop {
+  margin-top: 10px;
+}
+.CustomerInteractionMainDiv {
+  background-color: #232f3e;
+}
+.CustomerIntractionContainer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  font-weight: bolder;
+  color: grey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 80vw;
+}
+.CustomerInteraction {
+  color: white;
+  font-size: 16px;
+  font-weight: bolder;
+  padding-bottom: 5px;
+}
+.divider {
+  border: none; /* Remove the default border */
+  border-top: 1px solid #fff;
+  margin: 0 auto;
+}
+.btn-error {
+  background-color: #f8d7da;
+  color: #721c24;
+  border-color: #f5c6cb;
+}
